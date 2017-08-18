@@ -1,6 +1,7 @@
 TODO:
 
    - Create form with questions (I'll provide them to you over facebook)
+   - Allow users to make plans with specific users by username
    - Get the responses of those forms
    - Process the responses and return the results
    - Once the user chooses another user, bring them to a screen so they can form a study plan
@@ -14,6 +15,7 @@ Database schema (we can talk about this):
    - Table: Users
      - user_id
      - name
+     - username
      - email address
      - Foreign Key: plan_id
      - response_vec (a vector of their responses)
