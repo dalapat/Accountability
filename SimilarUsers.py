@@ -1,6 +1,10 @@
 __author__ = 'anishdalal'
 import heapq
 
+def convert_forms():
+    # oneeb, let me know how the responses come in and I'll parse it
+    pass
+
 def get_difference(vec1, vec2):
     # manhattan distance
     z = zip(vec1, vec2)

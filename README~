@@ -1,0 +1,13 @@
+TODO:
+
+   - Create form with questions (I'll provide them to you over facebook)
+   - Get the responses of those forms
+   - Process the responses and return the results
+   - Once the user chooses another user, bring them to a screen so they can form a study plan
+   - Study plan is a sort of checklist
+
+Database schema (we can talk about this):
+
+   - Gets complicated when a user can subscribe to multiple plans (i.e one for studying, one for dieting, etc). Maybe use Firebase and do something similar to what we did for Simplr?
+
+   - 
